@@ -24,3 +24,5 @@ array.each do |string|
   string[2] = "$"
  end
 end
+
+def 
