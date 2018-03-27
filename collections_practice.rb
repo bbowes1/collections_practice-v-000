@@ -25,4 +25,4 @@ array.each do |string|
  end
 end
 
-def 
+def find_a
