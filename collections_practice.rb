@@ -11,7 +11,6 @@ array.sort {|left, right| left.length <=> right.length}
 end
 
 def swap_elements(array)
- array = [1,2,3]
-array.sort! {|1, 2| 2 <=> 1}
+
 end
 
