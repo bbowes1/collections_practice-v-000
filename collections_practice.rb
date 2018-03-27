@@ -39,6 +39,8 @@ sum = 0
   sum
 end 
 
-def 
+def add_s(array)
+
+end
 
   
